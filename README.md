@@ -1,23 +1,31 @@
-# SmartBite Android App
+# SmartBite – AI Recipe Maker
 
 ## Overview
 
-SmartBite is an Android mobile application designed to help users discover recipes, explore meal ideas, save favorite recipes, and interact with a modern food recommendation platform.
+SmartBite is an AI-powered recipe recommendation system designed to help users create meals using ingredients they already have at home. The system aims to reduce food waste, save time, and encourage healthier eating habits by generating personalized recipe suggestions based on available ingredients.
 
-This repository contains the Android application implementation developed using Kotlin and Jetpack Compose. The application provides an intuitive user interface and integrates external APIs to deliver recipe-related content and recommendations.
+This repository contains the complete SmartBite project, including software engineering documentation, system design artifacts, project management deliverables, Android application implementation, and project presentations.
+
+---
 
 ## Features
 
-* User-friendly mobile interface
-* Home screen for quick navigation
-* Discover recipes section
-* Camera integration for ingredient-based interaction
-* Saved recipes management
-* User profile screen
-* Navigation between multiple screens
-* API integration for recipe data retrieval
+* User Registration and Login
+* Ingredient-Based Recipe Recommendations
+* AI-Powered Recipe Generation
+* Camera Integration for Ingredient Detection
+* Recipe Search and Discovery
+* Save Favorite Recipes
+* User Profile Management
+* Personalized Meal Suggestions
+* Nutritional Information Display
+* Mobile-Friendly User Interface
+
+---
 
 ## Technologies Used
+
+### Mobile Development
 
 * Kotlin
 * Android Studio
@@ -25,15 +33,57 @@ This repository contains the Android application implementation developed using 
 * MVVM Architecture
 * Retrofit
 * Navigation Component
-* Spoonacular API
 
-## Project Structure
+### Software Engineering
 
-* `app/` – Android application source code
-* `gradle/` – Gradle wrapper files
-* `build.gradle.kts` – Project build configuration
-* `settings.gradle.kts` – Project settings
-* `SmartBite.png` – Project logo
+* UML Modeling
+* Requirements Engineering
+* System Analysis and Design
+* Jira Project Management
+
+### Documentation & Design
+
+* Draw.io
+* Microsoft Word
+* PowerPoint
+
+---
+
+## Repository Structure
+
+```text
+SmartBite
+│
+├── Documentation
+│   ├── Vision and Scope
+│   ├── Software Requirements Specification (SRS)
+│   ├── Requirements Elicitation Report
+│   ├── Requirements Traceability Matrix
+│   ├── Jira Waterfall Report
+│   └── Jira V-Model Report
+│
+├── Diagrams
+│   ├── Use Case Diagram
+│   ├── Context Diagram
+│   ├── Feature Tree
+│   ├── Activity Diagram
+│   ├── Sequence Diagram
+│   ├── Class Diagram
+│   └── Success Metrics Diagram
+│
+├── Presentation
+│   └── SmartBite Project Presentation
+│
+├── Source Code
+│   └── Android Application
+│
+├── Screenshots
+│   └── Application Screens
+│
+└── README.md
+```
+
+---
 
 ## Main Screens
 
@@ -43,25 +93,56 @@ This repository contains the Android application implementation developed using 
 * Saved Recipes Screen
 * Profile Screen
 
+---
+
+## Project Objectives
+
+* Reduce food waste
+* Simplify meal planning
+* Help users cook using available ingredients
+* Encourage healthier food choices
+* Save time and money
+* Improve user cooking experience
+
+---
+
+## Software Engineering Deliverables
+
+The repository includes complete software engineering artifacts developed throughout the project lifecycle:
+
+* Vision and Scope Document
+* Software Requirements Specification (SRS)
+* Requirements Elicitation Report
+* Requirements Traceability Matrix
+* Use Case Diagram
+* Context Diagram
+* Feature Tree
+* Activity Diagram
+* Sequence Diagram
+* Class Diagram
+* Success Metrics
+* Jira Waterfall Report
+* Jira V-Model Report
+* Project Presentation
+
+---
+
 ## Learning Outcomes
 
 Through this project, the following concepts were applied:
 
-* Mobile application development using Kotlin
-* Modern Android UI design with Jetpack Compose
-* API integration using Retrofit
-* MVVM architectural pattern
-* Navigation and screen management
-* State management and reusable UI components
+* Requirements Engineering
+* System Analysis and Design
+* UML Modeling
+* Mobile Application Development
+* Project Management using Jira
+* Kotlin Android Development
+* MVVM Architecture
+* API Integration
+* Software Documentation
 
-## Future Development
+---
 
-Future enhancements may include:
+## Academic Purpose
 
-* AI-powered ingredient recognition
-* Personalized meal recommendations
-* Nutrition analysis
-* User authentication
-* Cloud database integration
-
-
+This project was developed for academic and educational purposes as part of Software Engineering and Mobile Application Development coursework. It demonstrates the complete software development lifecycle from requirements gathering and system design to implementation and project management.
