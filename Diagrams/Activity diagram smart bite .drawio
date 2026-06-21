@@ -1,0 +1,79 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
+  <diagram name="Page-1" id="zpK6jAYpXYtR6yecL_E4">
+    <mxGraphModel dx="1384" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CfcLdUe1v9-_DEHRBONr-1" value="" style="ellipse;fillColor=#f5f5f5;html=1;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="410.5" y="250" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CfcLdUe1v9-_DEHRBONr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="CfcLdUe1v9-_DEHRBONr-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="280" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CfcLdUe1v9-_DEHRBONr-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CfcLdUe1v9-_DEHRBONr-4" target="CfcLdUe1v9-_DEHRBONr-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CfcLdUe1v9-_DEHRBONr-4" value="System read input ingredients" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="365" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CfcLdUe1v9-_DEHRBONr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CfcLdUe1v9-_DEHRBONr-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CfcLdUe1v9-_DEHRBONr-5" value="Send input to AI Model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="365" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r5xkiO7Kx-BirQXaO2-w-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CfcLdUe1v9-_DEHRBONr-9" target="CfcLdUe1v9-_DEHRBONr-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="426" y="660" />
+              <mxPoint x="530" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r5xkiO7Kx-BirQXaO2-w-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CfcLdUe1v9-_DEHRBONr-9" target="CfcLdUe1v9-_DEHRBONr-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="426" y="660" />
+              <mxPoint x="290" y="660" />
+              <mxPoint x="290" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CfcLdUe1v9-_DEHRBONr-9" value="Available recipes?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="366.5" y="530" width="118" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CfcLdUe1v9-_DEHRBONr-11" value="Show recipe to user" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="470" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CfcLdUe1v9-_DEHRBONr-12" value="" style="shape=mxgraph.sysml.actFinal;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="510" y="800" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CfcLdUe1v9-_DEHRBONr-26" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="310" y="620" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CfcLdUe1v9-_DEHRBONr-27" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="470" y="620" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CfcLdUe1v9-_DEHRBONr-28" value="Start" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="400" y="220" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CfcLdUe1v9-_DEHRBONr-29" value="End" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="413" y="1060" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CfcLdUe1v9-_DEHRBONr-30" value="Recipe generation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="125" y="290" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r5xkiO7Kx-BirQXaO2-w-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CfcLdUe1v9-_DEHRBONr-11" target="CfcLdUe1v9-_DEHRBONr-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r5xkiO7Kx-BirQXaO2-w-6" value="End" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="850" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

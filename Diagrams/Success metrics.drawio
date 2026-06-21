@@ -1,0 +1,112 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
+  <diagram name="Page-1" id="ktG3wWZw3QyXTFEaDrJr">
+    <mxGraphModel dx="1200" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EM89w8XzDIaPBB1yj9BV-1" value="&lt;b&gt;Problem 1&lt;/b&gt;&lt;div&gt;Incapability of using Ingriendients&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="310" y="20" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="EM89w8XzDIaPBB1yj9BV-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EM89w8XzDIaPBB1yj9BV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="460" as="sourcePoint" />
+            <mxPoint x="390" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EM89w8XzDIaPBB1yj9BV-4" value="&lt;b&gt;Objective 1&lt;/b&gt;&lt;div&gt;Self Independence in cooking&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="310" y="250" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="EM89w8XzDIaPBB1yj9BV-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.117;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EM89w8XzDIaPBB1yj9BV-4" target="EM89w8XzDIaPBB1yj9BV-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="460" as="sourcePoint" />
+            <mxPoint x="210" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EM89w8XzDIaPBB1yj9BV-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EM89w8XzDIaPBB1yj9BV-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="460" as="sourcePoint" />
+            <mxPoint x="390" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EM89w8XzDIaPBB1yj9BV-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.41;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="EM89w8XzDIaPBB1yj9BV-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="410" as="sourcePoint" />
+            <mxPoint x="510" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EM89w8XzDIaPBB1yj9BV-9" value="&lt;b&gt;Problem 2&lt;/b&gt;&lt;div&gt;Food waste&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="150" y="460" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="EM89w8XzDIaPBB1yj9BV-10" value="&lt;b&gt;Problem 3&lt;/b&gt;&lt;div&gt;High cost of eating out&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="325" y="460" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="EM89w8XzDIaPBB1yj9BV-11" value="&lt;b&gt;Problem 4&lt;/b&gt;&lt;div&gt;Health and nutrition issues&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="500" y="460" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="EM89w8XzDIaPBB1yj9BV-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EM89w8XzDIaPBB1yj9BV-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="660" as="sourcePoint" />
+            <mxPoint x="215" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EM89w8XzDIaPBB1yj9BV-13" value="&lt;b&gt;Objective 2&lt;/b&gt;&lt;div&gt;Reduce food waste by 90% within 1 month&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="150" y="670" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="EM89w8XzDIaPBB1yj9BV-14" value="&lt;b&gt;Objective 3&lt;/b&gt;&lt;div&gt;Reduce cost of eating out by 70% within 2 months&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="325" y="670" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="EM89w8XzDIaPBB1yj9BV-15" value="&lt;b&gt;Objective 4&lt;/b&gt;&lt;div&gt;Increase health and nutrition by 80% in 6 months&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="510" y="670" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="EM89w8XzDIaPBB1yj9BV-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="389.5" y="590" as="sourcePoint" />
+            <mxPoint x="389.5" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EM89w8XzDIaPBB1yj9BV-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="574.5" y="590" as="sourcePoint" />
+            <mxPoint x="574.5" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EM89w8XzDIaPBB1yj9BV-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="830" width="490" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="EM89w8XzDIaPBB1yj9BV-19" value="Generate Recipes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="850" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EM89w8XzDIaPBB1yj9BV-20" value="Budget friendly recipe" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="850" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EM89w8XzDIaPBB1yj9BV-22" value="Calculate meal calories - protien" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="850" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EM89w8XzDIaPBB1yj9BV-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.412;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="EM89w8XzDIaPBB1yj9BV-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="214.5" y="800" as="sourcePoint" />
+            <mxPoint x="214.5" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EM89w8XzDIaPBB1yj9BV-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="389.5" y="800" as="sourcePoint" />
+            <mxPoint x="390" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EM89w8XzDIaPBB1yj9BV-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.446;exitY=0.987;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="EM89w8XzDIaPBB1yj9BV-15" target="EM89w8XzDIaPBB1yj9BV-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="574.5" y="800" as="sourcePoint" />
+            <mxPoint x="574.5" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EM89w8XzDIaPBB1yj9BV-26" value="&lt;b&gt;Product Concept&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="890" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EM89w8XzDIaPBB1yj9BV-27" value="Smart Bite System" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="920" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
